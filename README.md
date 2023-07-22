@@ -10,6 +10,14 @@ The ToDo API is a simple RESTful API built using Flask and Flask-RESTful. It pro
 - **Update**: You have the option to update the task description or summary of an existing ToDo task.
 - **Delete**: You can delete a ToDo task by specifying its unique ID.
 
+## Deployment
+
+The ToDo API is deployed on PythonAnywhere and is accessible at the following URL:
+
+- [ToDo API](http://rachana27.pythonanywhere.com/todos)
+
+PythonAnywhere is a platform that allows you to host and run Python web applications in the cloud. The API is hosted on their servers, and you can interact with it using the provided URL.
+
 ## Getting Started
 
 To get started with the ToDo API, make sure you have the following prerequisites:
