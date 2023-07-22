@@ -1,5 +1,3 @@
-# TODO-API
-The ToDo API is a simple RESTful API built using Flask and Flask-RESTful. It provides endpoints to manage ToDo tasks and their summaries. With this API, you can perform basic CRUD (Create, Read, Update, Delete) operations on ToDo tasks.
 
 # ToDo API
 
